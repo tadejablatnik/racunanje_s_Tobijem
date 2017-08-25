@@ -1,2 +1,2 @@
-# racunanje_s_Tobijem
-Program za učenje računanja, za začetnike.
+# ***Ucenje racunanja s Tobijem***
+## To je program za učenje računanja, za začetnike.
